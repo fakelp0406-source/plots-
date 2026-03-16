@@ -1,10 +1,8 @@
-"""
-Complete Guide: 20+ Chart Types for Time Series Data Analysis
-Using Matplotlib, Pyplot, and Seaborn
+# Complete Guide: 20+ Chart Types for Time Series Data Analysis
+### Using Matplotlib, Pyplot, and Seaborn  
+**Dataset:** Bitcoin Trading Data (`btc_1d_data_2018_to_2025.csv`)
 
-Dataset: Bitcoin Trading Data (btc_1d_data_2018_to_2025.csv)
-"""
-
+```python
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
